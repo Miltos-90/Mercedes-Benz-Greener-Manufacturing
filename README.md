@@ -3,7 +3,7 @@
 Introduction
 ============
 
-This dataset contains an anonymized set of variables, each representing
+This [dataset](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing) contains an anonymized set of variables, each representing
 a custom feature in a Mercedes vehicle. For example, a variable could be
 4WD, added air suspension, or a head-up display. The ground truth is
 labeled ‘y’ and represents the time that the car needed to pass testing.
