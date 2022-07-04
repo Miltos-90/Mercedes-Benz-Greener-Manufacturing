@@ -36,8 +36,7 @@ df <- read.csv("train.csv")
 Preprocessing
 -------------
 
-We need to wrap all the pre-processing steps we’ve done so far on the
-training set in a function and create our training/validation data:
+Wrap all the pre-processing steps (discussed in the EDA notebook) in a function to create the training/validation data:
 
 ``` r
 # Gather the reduced dataset
